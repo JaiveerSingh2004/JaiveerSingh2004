@@ -4,7 +4,7 @@
 </div>
 <br>
 <div id="badges" align ="center">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/jaiveer-singh-0544082a2">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -18,8 +18,27 @@
 <div align = "center">
 <img src="https://komarev.com/ghpvc/?username=JaiveerSingh2004&style=flat-square&color=blue" alt=""/>
 </div>
-
+<br>
 <h1 align = "center">
   Howdy?
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif" width="500" height="300"/>
+</div>
+
+---
+
+### :man_technologist: Personal Overview :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/PRgs2sn03T1xpCSWKe/giphy.gif" width="20"> at trainig and a Future Software Engineer from India.
+
+- :man_student: Currently a student of Computer Science at Chitkara University, Punjab.
+
+- :brain: Have proficient knowledge of Basics of Python, C++, HTML, CSS and JavaScript.
+
+- :zap: In my free time, I love to solve problems on GeeksforGeeks/LeetCode and read tech articles.
+
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Jaiveer_Singh-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jaiveer-singh-0544082a2)
+
