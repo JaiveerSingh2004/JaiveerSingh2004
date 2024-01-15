@@ -42,3 +42,21 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/PRgs2sn03T1x
 
 - :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Jaiveer_Singh-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jaiveer-singh-0544082a2)
 
+---
+
+### :nerd_face: Languages:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
+</div>
+
+---
+### :fire: My Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiveerSingh2004&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### One Day You'll see all these stats going high :fire: :wink: !!
+
